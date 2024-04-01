@@ -1,0 +1,2 @@
+com.example.androidproject1.shared
+xml automotive_app_desc
